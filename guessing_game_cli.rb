@@ -8,5 +8,4 @@ run_guessing_game
     puts "Goodbye!"
   else
     puts "Sorry! The computer guessed #{random_number}"
-  end
 end
